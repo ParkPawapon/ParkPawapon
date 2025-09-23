@@ -8,7 +8,7 @@ Freelance Full Stack Devoloper | Web Application |
 
 * 🌍  I'm based in Phang-nga Thailand
 * ✉️  You can contact me at [pawaponthammalangka@outlook.com](mailto:pawaponthammalangka@outlook.com)
-* 🧠  I'm learning Typescript , Notion Database
+* 🧠  I'm learning Rust and another
 
 ### 🛠 Programming Languages
 
