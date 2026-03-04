@@ -6,7 +6,7 @@ Web Devoloper
 
 Freelance Full Stack Devoloper | Web Application |
 
-* 🌍  I'm based in Phang-nga Thailand
+* 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [pawaponthammalangka@outlook.com](mailto:pawaponthammalangka@outlook.com)
 * 🧠  I'm learning Rust and another
 
