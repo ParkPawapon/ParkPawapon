@@ -4,11 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Devoloper
 -------------
 
-Freelance Full Stack Devoloper | Web Application |
+Freelance Full Stack Devoloper
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [pawaponthammalangka@outlook.com](mailto:pawaponthammalangka@outlook.com)
 * 🧠  I'm learning Rust and another
+* 🏫  I'm study at King Mongkut's University of Technology Thonburi
 
 ### 🛠 Programming Languages
 
