@@ -1,73 +1,87 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Park \_pawapon
-======================================================================================================================================
+<div align="center">
+  <h1>Hi there, I'm Park Pawapon 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Web+Developer;Based+in+Bangkok,+Thailand" alt="Typing SVG" />
+</div>
 
-Web Devoloper
--------------
+<br/>
 
-Freelance Full Stack Devoloper
+## 👨‍💻 About Me
 
-* 🌍  I'm based in Bangkok, Thailand
-* ✉️  You can contact me at [pawaponthammalangka@outlook.com](mailto:pawaponthammalangka@outlook.com)
-* 🧠  I'm learning Rust and another
-* 🏫  I'm study at King Mongkut's University of Technology Thonburi
+I am a passionate **Freelance Full Stack Developer** with a strong foundation in modern web technologies. Currently, I am expanding my expertise by diving deep into systems programming and scalable architecture.
 
-### 🛠 Programming Languages
+- 🌍 **Location:** Bangkok, Thailand
+- 🏫 **Education:** King Mongkut's University of Technology Thonburi (KMUTT)
+- 🧠 **Currently Learning:** Rust 🦀 and exploring modern system architectures.
+- ✉️ **Contact:** [pawaponthammalangka@outlook.com](mailto:pawaponthammalangka@outlook.com)
 
+---
 
-<p align="left">
-<a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="36" height="36" alt="Golang" /></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="36" height="36" alt="OracleDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+## 🛠️ Technical Arsenal
 
+### 💻 Languages & Core Frameworks
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,go,java,ruby,cs,dotnet,cpp&perline=12" alt="Languages and Frameworks" />
+  </a>
+</div>
 
-### 🛠 Frontend & UI
+### 🎨 Frontend, UI & Design
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,redux,figma,ps&perline=12" alt="Frontend and Design" />
+  </a>
+</div>
 
+### 🗄️ Databases & Cloud Systems
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp&perline=12" alt="Databases and Cloud" />
+  </a>
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://mui.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://ant.design/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/antdesign/antdesign-original.svg" width="36" height="36" alt="Ant Design" /></a>
-<a href="https://chakra-ui.com/" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/chakraui.svg" width="36" height="36" alt="Chakra UI" /></a>
-<a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36" height="36" alt="Redux Toolkit" /></a>
-<a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="36" height="36" alt="Photoshop" /></a>
-</p>
+### ⚙️ DevOps, Tools & Infrastructure
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,terraform,ansible,linux,git,gitlab&perline=12" alt="DevOps and Tools" />
+  </a>
+</div>
 
+---
 
-### 🛠 DevOps & Tools
+## 🤝 Connect with Me
 
+<div align="left">
+  <a href="https://www.github.com/ParkPawapon" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.facebook.com/pawapon.thammalangka" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="http://www.instagram.com/park_pawapon.tk" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:pawaponthammalangka@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-exchange&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-<p align="left">
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36" height="36" alt="NGINX" /></a>
-<a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="36" height="36" alt="Jenkins" /></a>
-<a href="https://www.terraform.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="36" height="36" alt="Terraform" /></a>
-<a href="https://www.ansible.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="36" height="36" alt="Ansible" /></a>
-<a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="36" height="36" alt="AWS" /></a>
-<a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="36" height="36" alt="GCP" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="GitLab" /></a>
-</p>
+---
 
+## 📊 GitHub Analytics
 
-### Socials
+<div align="center">
+  <table border="0" style="border: none; background-color: transparent;">
+    <tr style="border: none; background-color: transparent;">
+      <td align="center" style="border: none; background-color: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api?username=ParkPawapon&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED" alt="ParkPawapon's GitHub Stats" />
+      </td>
+      <td align="center" style="border: none; background-color: transparent;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkPawapon&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" alt="ParkPawapon's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="left"> <a href="https://www.facebook.com/pawapon.thammalangka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/ParkPawapon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/park_pawapon.tk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParkPawapon&theme=transparent&hide_border=true&title_color=2F80ED" alt="ParkPawapon's GitHub Streak" />
+</div>
