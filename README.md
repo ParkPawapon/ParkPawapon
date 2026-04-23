@@ -73,15 +73,15 @@ I am a passionate **Freelance Full Stack Developer** with a strong foundation in
   <table border="0" style="border: none; background-color: transparent;">
     <tr style="border: none; background-color: transparent;">
       <td align="center" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api?username=ParkPawapon&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED" alt="ParkPawapon's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ParkPawapon&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED" alt="GitHub Stats" />
       </td>
       <td align="center" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkPawapon&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" alt="ParkPawapon's Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkPawapon&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParkPawapon&theme=transparent&hide_border=true&title_color=2F80ED" alt="ParkPawapon's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParkPawapon&theme=transparent&hide_border=true&title_color=2F80ED" alt="GitHub Streak" />
 </div>
