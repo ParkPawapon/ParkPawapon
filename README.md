@@ -21,7 +21,7 @@ I am a passionate **Freelance Full Stack Developer** with a strong foundation in
 ### 💻 Languages & Core Frameworks
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,react,nextjs,angular,nestjs,go,ruby,cs,dotnet,cpp&perline=12" alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,dart,nodejs,react,nextjs,angular,nestjs,laravel,go,ruby,cs,dotnet&perline=12" alt="Languages and Frameworks" />
   </a>
 </div>
 
