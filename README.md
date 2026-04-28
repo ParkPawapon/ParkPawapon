@@ -35,14 +35,14 @@ I am a passionate **Freelance Full Stack Developer** with a strong foundation in
 ### 🗄️ Databases & Cloud Systems
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,azure&perline=12" alt="Databases and Cloud" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,aws,gcp,azure&perline=12" alt="Databases and Cloud" />
   </a>
 </div>
 
 ### ⚙️ DevOps, Tools & Infrastructure
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,terraform,ansible,linux,git,gitlab,cloudflare&perline=12" alt="DevOps and Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,githubactions,terraform,ansible,linux,git,gitlab,cloudflare&perline=12" alt="DevOps and Tools" />
   </a>
 </div>
 
