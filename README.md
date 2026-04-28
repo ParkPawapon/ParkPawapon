@@ -21,21 +21,21 @@ I am a passionate **Freelance Full Stack Developer** with a strong foundation in
 ### 💻 Languages & Core Frameworks
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,dart,nodejs,react,nextjs,angular,nestjs,laravel,go,ruby,cs,dotnet&perline=12" alt="Languages and Frameworks" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,dart,nodejs,express,react,nextjs,angular,nestjs,laravel,go,cs,dotnet&perline=12" alt="Languages and Frameworks" />
   </a>
 </div>
 
 ### 🎨 Frontend, UI & Design
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,redux,figma,ps&perline=12" alt="Frontend and Design" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,redux,jquery,figma,ps&perline=12" alt="Frontend and Design" />
   </a>
 </div>
 
 ### 🗄️ Databases & Cloud Systems
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,aws,gcp,azure&perline=12" alt="Databases and Cloud" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,aws,gcp,azure&perline=12" alt="Databases and Cloud" />
   </a>
 </div>
 
