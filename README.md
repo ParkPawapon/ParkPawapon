@@ -39,10 +39,10 @@ I am a passionate **Freelance Full Stack Developer** with a strong foundation in
   </a>
 </div>
 
-### ⚙️ DevOps, Tools & Infrastructure
+### ⚙️ DevOps, Monitoring & Infrastructure
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,githubactions,terraform,ansible,linux,git,gitlab,cloudflare&perline=12" alt="DevOps and Tools" />
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,githubactions,terraform,ansible,linux,git,gitlab,cloudflare,grafana,kafka,prometheus,vercel&perline=12" alt="DevOps, Monitoring and Production Infrastructure" />
   </a>
 </div>
 
