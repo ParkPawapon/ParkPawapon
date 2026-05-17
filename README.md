@@ -73,10 +73,10 @@ I am a passionate **Freelance Full Stack Developer** with a strong foundation in
   <table border="0" style="border: none; background-color: transparent;">
     <tr style="border: none; background-color: transparent;">
       <td align="center" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats-intech-projects.vercel.app/api?username=ParkPawapon&show_icons=true&theme=transparent&hide_border=true&title_color=2F80ED&cache_seconds=86400&v=3" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ParkPawapon&show_icons=true&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=2F80ED" alt="GitHub Stats" />
       </td>
       <td align="center" style="border: none; background-color: transparent;">
-        <img src="https://github-readme-stats-intech-projects.vercel.app/api/top-langs/?username=ParkPawapon&layout=compact&theme=transparent&hide_border=true&title_color=2F80ED&v=3" alt="Top Languages" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ParkPawapon&layout=compact&bg_color=0D1117&text_color=FFFFFF&hide_border=true&title_color=2F80ED" alt="Top Languages" />
       </td>
     </tr>
   </table>
